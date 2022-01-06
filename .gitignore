@@ -1,3 +1,11 @@
+# Other and Python
+.DS_Store
+config.py
+practice.ipynb
+random.ipynb
+other_prep.ipynb
+
+
 # Compiled class file
 *.class
 
