@@ -60,7 +60,7 @@ function updateFilters() {
     let filteredData = tableData;
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    let date = filters["date"]
+    let date = d3.select("#datetime").property("value");
     let city = filters["city"]
     let state = filters["state"]
     let country = filters["country"]
