@@ -11,11 +11,11 @@ This project website is intended to provide easy access to a data set of UFO sig
 Users can explore the sightings by filtering for date, city, state, country, and shape.  
 
 To filter for specific sighting information, use the following input formats:
-\tDate: m/d/yyyy
-\tCity: lower case full city name
-\tState: lower case two letter abbreviation for states
-\tCountry: lower case two letter abbreviation for countries (us for United States, ca for Canada)
-\tShape: single word lower case terms such as "light", "circle", "triangle", "unknown"
+- Date: m/d/yyyy
+- City: lower case full city name
+- State: lower case two letter abbreviation for states
+- Country: lower case two letter abbreviation for countries (us for United States, ca for Canada)
+- Shape: single word lower case terms such as "light", "circle", "triangle", "unknown"
 
 
 Users must press enter after each input field to update the table. Figure 1 below shows an example of multiple filters being applied and the table.
