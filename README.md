@@ -15,7 +15,7 @@
 
 
 ## Overview
-This project demonstrates some basic skills in using JavaScript, CSS, and html to create an interactive website to display data. To view to final output of this module, download the index.html and associated files and open the html in a web browser. The page rendered provides easy access to a dataset of UFO sightings in the North America in 2010. The webpage allows for filtering by date, location (city, state, or country), and object shape.
+This project demonstrates some basic skills in using JavaScript, CSS, and html to create an interactive webpage to display data. To view to final output of this module, download the index.html and associated files and open the html in a web browser. The page rendered provides easy access to a dataset of UFO sightings in the North America in 2010. The webpage allows for filtering by date, location (city, state, or country), and object shape.
 
 
 **Data Source:**
