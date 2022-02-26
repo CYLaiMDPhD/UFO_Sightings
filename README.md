@@ -3,7 +3,7 @@
 *Note: This repository was generated to fulfill assignments (Module 11 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
 *Module Exercises:*
-- *Introduction to JavaScrpit and ES6+*
+- *Introduction to JavaScript and ES6+*
 - *JavaScript objects, compenents, and functions*
   - *Basic functions*
   - *Logic, conditionals, filters*
