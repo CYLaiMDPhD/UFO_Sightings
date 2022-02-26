@@ -4,7 +4,7 @@
 
 *Module Exercises:*
 - *Introduction to JavaScript and ES6+*
-- *JavaScript objects, compenents, and functions*
+- *JavaScript objects, components, and functions*
   - *Basic functions*
   - *Logic, conditionals, filters*
   - *Loops*
